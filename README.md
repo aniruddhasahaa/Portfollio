@@ -113,7 +113,3 @@ If you want to connect, feel free to reach out:
 * **GitHub**: [https://github.com/aniruddhasahaa](https://github.com/aniruddhasahaa)
 
 ---
-
-## 📝 License
-
-This project is open source and available under the **MIT License**.
