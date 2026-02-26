@@ -4,7 +4,7 @@
 Welcome to my personal portfolio website!  
 This project showcases who I am, my skills, projects, experiences, and how to connect with me — all in one place.
 
-🔗 Live Demo: https://portfolio‑aniruddha.web.app/
+🔗 Live Demo: https://portfolio-aniruddha.web.app/
 
 ---
 
